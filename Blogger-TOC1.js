@@ -209,4 +209,5 @@ window.onload = function () {
     initResult(0);
     buildLabels();
     window.location.hash = "#0"
+
 };
